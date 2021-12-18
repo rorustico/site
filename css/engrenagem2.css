@@ -1,0 +1,61 @@
+#logoengrenagem{
+    height: 60px;
+    width: 60px;
+    list-style: none;
+    left: -10px;
+    top: -15px;
+    position: relative;
+}
+@media screen and (max-width: 1300px) {
+    #logoengrenagem{
+        height: 60px;
+        width: 60px;
+        list-style: none;
+        left: -250px;
+        top: -15px;
+        position: relative;
+    }}
+#navegatorengrenagem{
+    
+    position: absolute;
+    left: 130px;
+    transition: all .5s;
+    top: -230px;
+}
+@media screen and (max-width: 1300px) {
+    #navegatorengrenagem{
+    
+        position: absolute;
+        left: -140px;
+        transition: all .5s;
+        top: -230px;
+    }}
+
+#botaof11{
+    height: 150px;
+    width: 150px;
+    
+}
+
+#logof12{
+    height: 150px;
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+input[type="checkbox"]:checked ~ #navegatorengrenagem
+{
+    transform: translateY(570px);
+   
+}
+
+#engrenagemmenu{
+    width: 30px;
+    height: 50px;
+   
+    top: 100px;
+    position: absolute;
+    left: 1380px;
+}

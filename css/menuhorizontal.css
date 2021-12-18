@@ -1,0 +1,117 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+
+
+
+    
+
+
+
+
+
+
+#lista{
+    list-style: none;
+    background-color: #282828;
+    width: 200px;
+    height: 0px;
+    top: 200px;
+    position: absolute;
+    
+    
+}
+
+
+
+#navegatorhorizontal{
+   
+    width: 350px;
+    height: 0%;
+    position: absolute;
+    left: -1277px;
+    top: 155px;
+    transition: all .5s;
+
+    
+    
+}
+@media screen and (max-width: 320px) {
+    #navegatorhorizontal{
+   
+        width: 330px;
+        height: 0%;
+        position: absolute;
+        left: -1277px;
+        top: 155px;
+        transition: all .5s;
+    
+        
+        
+    }}
+
+
+
+input[type="checkbox"]:checked ~ #navegatorhorizontal
+{
+    transform: translateX(1040px);
+   
+    
+}
+
+#checkbox2[type="checkbox"]{
+    display: none;
+    
+}
+
+
+#menuseta{
+    height: 80px;
+    width: 80px;
+    top: 300px;
+    left: 0px;
+    position: absolute;
+   
+}
+
+#logoterminalimg{
+    padding: 2px;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    top: 45px;
+    left: 470px;
+    
+    
+}
+
+ 
+
+
+#label{
+   
+    
+    position: absolute;
+    
+    
+    
+}
+
+
+#menuhorizontal{
+    
+    position: absolute;
+    background-color: #a51d45cb;
+    width: 350px;
+    height: 100px;
+    border-style: solid;
+    border: rgb(86, 86, 87);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    left: 468px;
+    top: 32px;
+}
+

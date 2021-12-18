@@ -1,0 +1,164 @@
+#wifi{
+    height: 100px;
+    width: 100px;
+   
+    
+}
+
+
+
+
+
+#logowifi{
+    height: 25px;
+    width: 42px;
+    position: relative;
+    left: 700px;
+    top: 5px;
+}
+
+@media screen and (max-width: 1300px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 570px;
+        top: 5px;
+    }}
+@media screen and (max-width: 1024px) {
+    #logowifi{
+    height: 25px;
+    width: 42px;
+    position: relative;
+    left: 470px;
+    top: 5px;}
+}
+@media screen and (max-width: 810px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 390px;
+        top: 5px;
+    }
+}
+@media screen and (max-width: 428px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 120px;
+        top: 5px;
+    }
+}
+@media screen and (max-width: 420px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 180px;
+        top: 5px;
+    }
+}
+@media screen and (max-width: 412px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 180px;
+        top: 5px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 170px;
+        top: 5px;
+    }
+}
+@media screen and (max-width: 320px) {
+    #logowifi{
+        height: 25px;
+        width: 42px;
+        position: relative;
+        left: 150px;
+        top: 5px;
+    }
+}
+
+#sinal{
+    height: 26px;
+    width: 44px;
+    left: 1365px;
+    position: absolute;
+    top: 8px;
+}
+@media screen and (max-width: 1300px) {
+
+    #sinal{
+        height: 26px;
+        width: 44px;
+        left: 1120px;
+        position: absolute;
+        top: 8px;
+    }
+    }
+
+@media screen and (max-width: 1024px) {
+
+#sinal{
+    height: 26px;
+    width: 44px;
+    left: 860px;
+    position: absolute;
+    top: 8px;
+}
+}
+header{
+    background-color: rgb(95, 95, 95);
+    height: 38px;
+    width: 100%;
+    position: fixed;
+}
+
+#gatodeoculos{
+
+    width: 300px;
+    height: 120px;
+    position: absolute;
+    border-radius: 15px;
+}
+
+
+#battery{
+    position: absolute;
+    height: 30px;
+    width: 50px;
+    left: 1390px;
+    
+    top: 4px;
+}
+@media screen and (max-width: 1300px) {
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 1150px;
+        
+        top: 4px;
+    }}
+
+@media screen and (max-width: 1024px) {
+#battery{
+    position: absolute;
+    height: 30px;
+    width: 50px;
+    left: 880px;
+    
+    top: 4px;
+}
+}
+

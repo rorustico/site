@@ -1,0 +1,259 @@
+@media screen and (max-width: 820px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 770px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 820px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 740px;
+    position: absolute;
+    top: 8px;
+}
+}
+@media screen and (max-width: 800px) {
+
+    #sinal{
+        height: 26px;
+        width: 44px;
+        left: 710px;
+        position: absolute;
+        top: 8px;
+    }
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 740px;
+        
+        top: 4px;
+    }
+}
+@media screen and (max-width: 600px) {
+    #sinal{
+        height: 26px;
+        width: 44px;
+        left: 525px;
+        position: absolute;
+        top: 8px;
+    }
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 550px;
+        
+        top: 4px;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+
+    #sinal{
+        height: 26px;
+        width: 44px;
+        left: 295px;
+        position: absolute;
+        top: 8px;
+    }
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 320px;
+        
+        top: 4px;
+    }
+}
+@media screen and (max-width: 428px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 385px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 428px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 360px;
+    position: absolute;
+    top: 8px;
+}
+}
+    
+    @media screen and (max-width: 414px) {
+
+        #battery{
+            position: absolute;
+            height: 30px;
+            width: 50px;
+            left: 370px;
+            
+            top: 4px;
+        }
+    
+    }
+    
+    @media screen and (max-width: 414px) {
+        #sinal{
+        height: 26px;
+        width: 44px;
+        left: 345px;
+        position: absolute;
+        top: 8px;
+    }
+    }
+
+
+@media screen and (max-width: 412px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 370px;
+        
+        top: 4px;
+    }
+
+}
+
+
+@media screen and (max-width: 412px) {
+    #sinal{
+            height: 26px;
+    width: 44px;
+    left: 340px;
+    position: absolute;
+    top: 8px;
+}
+}
+@media screen and (max-width: 390px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 350px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 390px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 325px;
+    position: absolute;
+    top: 8px;
+}
+}
+@media screen and (max-width: 385px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 340px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 385px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 318px;
+    position: absolute;
+    top: 8px;
+}
+}
+
+@media screen and (max-width: 375px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 332px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 305px;
+    position: absolute;
+    top: 8px;
+}
+}
+@media screen and (max-width: 360px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 322px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 360px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 300px;
+    position: absolute;
+    top: 8px;
+}
+}
+@media screen and (max-width: 320px) {
+
+    #battery{
+        position: absolute;
+        height: 30px;
+        width: 50px;
+        left: 280px;
+        
+        top: 4px;
+    }
+
+}
+
+@media screen and (max-width: 320px) {
+    #sinal{
+    height: 26px;
+    width: 44px;
+    left: 250px;
+    position: absolute;
+    top: 8px;
+}
+}
+    

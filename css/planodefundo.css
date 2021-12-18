@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+#planodefundo{
+left: 635px;
+    top: 280px;    
+    position: absolute;
+    top: 50%; /* posiciona na metade da tela */
+    margin-top: -70px; /* e retrocede metade da altura */
+    left: 53%; /* posiciona na metade da tela */
+    margin-left: -100px;
+    max-height:100% !important;
+    overflow:hidden;
+    
+}
+
+@media screen and (max-width: 810px) {
+    #planodefundo{
+        left: 635px;
+            top: 280px;    
+            position: absolute;
+            top: 50%; /* posiciona na metade da tela */
+            margin-top: -70px; /* e retrocede metade da altura */
+            left: 56%; /* posiciona na metade da tela */
+            margin-left: -100px;
+            max-height:100% !important;
+            overflow:hidden;
+            
+        }}
+@media screen and (max-width: 520px) {
+    #planodefundo{
+        left: 635px;
+            top: 280px;    
+            position: absolute;
+            top: 50%; /* posiciona na metade da tela */
+            margin-top: -70px; /* e retrocede metade da altura */
+            left: 62%; /* posiciona na metade da tela */
+            margin-left: -100px;
+            max-height:100% !important;
+            overflow:hidden;
+            
+        }}
+
+#logoarch{
+    height: 110px;
+    width: 110px;
+}
+
+
+
+#data-hora{
+    font-family: sans-serif;
+    height: 24px;
+    width: 72px;
+    background-color: #1a83c0;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 0.5px;
+    left: 3px;
+    font-size: 11px;
+    position: absolute;
+    top: 5px;
+
+    font-weight: bold;
+
+    
+}
+
+#logopacman{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 530px;
+    top: 36px;
+}
+
+#logoyoutube{
+    height: 65px;
+    width: 65px;
+    position: absolute;
+    left: 670px;
+    top: 51px;
+}
+
+
+
+
+
+#logoemail{
+    height: 58px;
+    width: 58px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
+#sendmail{
+    
+    height: 58px;
+    width: 58px;
+    top: 51px;
+    left: 750px;
+    position: relative;
+
+}
+
+#face{
+    position: absolute;
+    left: 770px;
+    top: 70px ;
+    left: 620px;
+    height: 35px;
+    width: 35px;
+}
+
+#lixeira{
+    position: relative;
+    left: 500px;
+    height: 50px;
+    width: 50px;
+    top: 50px;
+}
+
+
+.pastaprojetos{
+    left: 570px;
+    position: absolute;
+    top: 50px;
+    
+}
+
+#pasta{
+    height: 50px;
+    width: 50px;
+}
