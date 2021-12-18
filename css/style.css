@@ -228,6 +228,7 @@ a {
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 30px;
     justify-items: center;
+    background-color: #a86c3e;
 }
 
 .gallery-image {
@@ -235,6 +236,7 @@ a {
     width: 540px;
     height: 360px;
     border-radius: 5px;
+    background-color: #a86c3e;
 }
 
 /* Footer */
